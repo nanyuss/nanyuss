@@ -18,12 +18,6 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
 
-### 🔗 | Discord Profile:
-
-<a href="https://discord.com/users/804509819254866000" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/804509819254866000?borderRadius=10px&idleMessage=Nenhuma%20atividade" alt="Discord Presence"  />
-</a>
-
 ### 📊 | Stats:
 
 <div align="left">
